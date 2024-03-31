@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Data/Vehicle_paramiter.sldd" Name="Vehicle_paramiter">
+    <Extension Value="2fa2e991-aa6f-4e93-9415-1fc7214f1e3f" Name="StartUpPrev"/>
+</Info>

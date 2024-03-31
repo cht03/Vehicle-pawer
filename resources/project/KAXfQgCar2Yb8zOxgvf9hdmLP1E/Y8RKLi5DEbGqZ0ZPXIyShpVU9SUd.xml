@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="model/power_balance.slx" Name="power_balance">
+    <Extension Value="cbff074c-dbaa-4287-8983-1050b791963e" Name="StartUpPrev"/>
+</Info>
